@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="H1" tvg-logo="https://i.ibb.co/jDyJh1q/h1.png" group-title="ARMENIAN",H1
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="ARMENIANEWS" tvg-logo="https://i.ibb.co/NmRWYLt/AMNEWS.jpg" group-title="ARMENIAN",ARMENIA NEWS
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVARMENIA" tvg-logo="https://i.ibb.co/k1R48yZ/SONGTV.jpg" group-title="ARMENIAN",SONG TV ARMENIA
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:-1 tvg-id="AMEDIAPREMIUM" tvg-logo="https://i.ibb.co/Sv3L82L/AMEDIA.png" group-title="ARMENIAN",AMEDIA PREMIUM
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 tvg-id="ATVKINOMAN" tvg-logo="https://i.ibb.co/fpscDgy/atv-kinoman.png" group-title="ARMENIAN",ATV KINOMAN
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1 tvg-id="FIGHTBOX" tvg-logo="https://i.ibb.co/TBWmKrb/Fight-Box-HD-black.png" group-title="ARMENIAN",FIGHTBOX
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-id="AABC" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="ARMENIAN",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-id="ARTN" tvg-logo="https://i.ibb.co/dcR7fhC/ARTN.png" group-title="ARMENIAN",ARTN
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 tvg-id="AMGA" tvg-logo="https://i.ibb.co/X5cm0cp/AMGA.png" group-title="ARMENIAN",AMGA
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 tvg-id="USARMENIA" tvg-logo="https://i.ibb.co/VN29sN1/USARMENIA.jpg" group-title="ARMENIAN",US ARMENIA
+https://usarmenia-tv.icdndhcp.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 tvg-id="PANARMENIAN" tvg-logo="https://i.ibb.co/vm02cMN/PAN.png" group-title="ARMENIAN",PAN ARMENIAN
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-logo="https://i.ibb.co/yY9gDWy/HOLLYWOOD.png" group-title="RUSSIAN",HOLLYWOOD
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTINF:-1 tvg-id="RUSSIANMUSIC" tvg-logo="https://i.ibb.co/Qb9yjqb/RUSSSONG.jpg" group-title="RUSSIAN",SONG TV RUSSIAN
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.ibb.co/xX6NVhQ/FX.png" group-title="RUSSIAN",FOX
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICWILD" tvg-logo="https://i.ibb.co/JyJGnjS/NATIONAL.jpg" group-title="RUSSIAN",NATIONAL GEOGRAPHIC WILD
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-id="S1" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="RUSSIAN",S1
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="RUSSIAN",Channel 12
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Aris24.ru" tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="RUSSIAN",Aris 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/blAtdkJ.png" group-title="RUSSIAN",Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
