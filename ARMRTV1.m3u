@@ -21,6 +21,8 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 https://usarmenia-tv.icdndhcp.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="PANARMENIAN" tvg-logo="https://i.ibb.co/vm02cMN/PAN.png" group-title="ARMENIAN",PAN ARMENIAN
 https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 tvg-id="KANAL JADID" tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co/pdPbXVT/jadid.jpg" group-title="IRANIAN",KANAL JADID
+https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HOLLYWOOD" tvg-logo="https://i.ibb.co/yY9gDWy/HOLLYWOOD.png" group-title="RUSSIAN",HOLLYWOOD
 http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 tvg-id="RUSSIANMUSIC" tvg-logo="https://i.ibb.co/Qb9yjqb/RUSSSONG.jpg" group-title="RUSSIAN",SONG TV RUSSIAN
@@ -37,3 +39,7 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/blAtdkJ.png" group-title="RUSSIAN",Arkhyz 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabya" tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co/QXYVDWd/AlArabi.png" group-title="ARABIC",AL ARABIYA
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Alarabya2" tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co/QXYVDWd/AlArabi.png" group-title="ARABIC",AL ARABIYA 2
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
