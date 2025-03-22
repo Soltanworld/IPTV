@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="H1" tvg-logo="https://i.ibb.co/jDyJh1q/h1.png" group-title="ARMENIAN",H1
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="H1 ARMENIA" tvg-logo="https://i.ibb.co/jDyJh1q/h1.png" group-title="ARMENIAN",H1 ARMENIA
+https://srv82.gisher.me/tv/h1_720.m3u8?t=M2M1cjxeNG6lvxctjf6qPw&e=1742696745
+#EXTINF:-1 tvg-id="ARMENIA" tvg-logo="https://i.ibb.co/SX0hx8ff/ARMENIA.png" group-title="ARMENIAN",ARMENIA
+https://srv83.gisher.me/tv/armeniatv_720.m3u8?t=-7yjLhOzNkeQBcMtU8UrWw&e=1742697019
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.ibb.co/c9JFz61/Atvnew.webp" group-title="ARMENIAN",ATV
+https://srv4.gisher.me/tv/atv.m3u8?t=e-8Z2pjWDDPFDw_LGQ06Bw&e=1742697504
